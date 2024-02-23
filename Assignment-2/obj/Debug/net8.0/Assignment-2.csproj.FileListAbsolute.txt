@@ -1,0 +1,14 @@
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.AssemblyInfoInputs.cache
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.AssemblyInfo.cs
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.csproj.CoreCompileInputs.cache
+E:\Assignments\Assignment-2\Assignment-2\bin\Debug\net8.0\Assignment-2.exe
+E:\Assignments\Assignment-2\Assignment-2\bin\Debug\net8.0\Assignment-2.deps.json
+E:\Assignments\Assignment-2\Assignment-2\bin\Debug\net8.0\Assignment-2.runtimeconfig.json
+E:\Assignments\Assignment-2\Assignment-2\bin\Debug\net8.0\Assignment-2.dll
+E:\Assignments\Assignment-2\Assignment-2\bin\Debug\net8.0\Assignment-2.pdb
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.dll
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\refint\Assignment-2.dll
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.pdb
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\Assignment-2.genruntimeconfig.cache
+E:\Assignments\Assignment-2\Assignment-2\obj\Debug\net8.0\ref\Assignment-2.dll
